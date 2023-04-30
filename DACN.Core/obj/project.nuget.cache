@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dW/fTafP3vmpPLYRDZu+qt9rCZhk2dKBBMlY8/Bb8U7dTrFadys8YDmWMN31ZGjuMQUpq6xi4RGTNuQaoi7C9w==",
+  "dgSpecHash": "m3oMTiwINj5Oo3WUajbigLjQE9ghcYn+TKKqdIrz2eFX2zxbMKHPs7ELjDSA7LGTwuo6VzGiWoxdso96MfAlMQ==",
   "success": true,
-  "projectFilePath": "D:\\Webbansach\\Store_Book\\Back-end\\DACN.Core\\DACN.Core.csproj",
+  "projectFilePath": "D:\\Webbansach_BE\\DACN.Core\\DACN.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\binhc\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\binhc\\.nuget\\packages\\mailkit\\3.6.0\\mailkit.3.6.0.nupkg.sha512",

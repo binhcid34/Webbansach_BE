@@ -6268,11 +6268,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Webbansach\\Store_Book\\Back-end\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "D:\\Webbansach_BE\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "D:\\Webbansach\\Store_Book\\Back-end\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "D:\\Webbansach_BE\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\binhc\\.nuget\\packages\\",
-      "outputPath": "D:\\Webbansach\\Store_Book\\Back-end\\WebApplication1\\obj\\",
+      "outputPath": "D:\\Webbansach_BE\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\binhc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6289,11 +6289,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Webbansach\\Store_Book\\Back-end\\DACN.Core\\DACN.Core.csproj": {
-              "projectPath": "D:\\Webbansach\\Store_Book\\Back-end\\DACN.Core\\DACN.Core.csproj"
+            "D:\\Webbansach_BE\\DACN.Core\\DACN.Core.csproj": {
+              "projectPath": "D:\\Webbansach_BE\\DACN.Core\\DACN.Core.csproj"
             },
-            "D:\\Webbansach\\Store_Book\\Back-end\\DACN.Infrastructure\\DACN.Infrastructure.csproj": {
-              "projectPath": "D:\\Webbansach\\Store_Book\\Back-end\\DACN.Infrastructure\\DACN.Infrastructure.csproj"
+            "D:\\Webbansach_BE\\DACN.Infrastructure\\DACN.Infrastructure.csproj": {
+              "projectPath": "D:\\Webbansach_BE\\DACN.Infrastructure\\DACN.Infrastructure.csproj"
             }
           }
         }

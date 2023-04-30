@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Webbansach\\Store_Book\\Back-end\\DACN.Core\\DACN.Core.csproj": {}
+    "D:\\Webbansach_BE\\DACN.Core\\DACN.Core.csproj": {}
   },
   "projects": {
-    "D:\\Webbansach\\Store_Book\\Back-end\\DACN.Core\\DACN.Core.csproj": {
+    "D:\\Webbansach_BE\\DACN.Core\\DACN.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Webbansach\\Store_Book\\Back-end\\DACN.Core\\DACN.Core.csproj",
+        "projectUniqueName": "D:\\Webbansach_BE\\DACN.Core\\DACN.Core.csproj",
         "projectName": "DACN.Core",
-        "projectPath": "D:\\Webbansach\\Store_Book\\Back-end\\DACN.Core\\DACN.Core.csproj",
+        "projectPath": "D:\\Webbansach_BE\\DACN.Core\\DACN.Core.csproj",
         "packagesPath": "C:\\Users\\binhc\\.nuget\\packages\\",
-        "outputPath": "D:\\Webbansach\\Store_Book\\Back-end\\DACN.Core\\obj\\",
+        "outputPath": "D:\\Webbansach_BE\\DACN.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\binhc\\AppData\\Roaming\\NuGet\\NuGet.Config",

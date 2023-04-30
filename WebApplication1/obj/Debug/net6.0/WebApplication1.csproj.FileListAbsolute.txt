@@ -1,0 +1,190 @@
+D:\dự án công nghệ\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+D:\dự án công nghệ\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+D:\dự án công nghệ\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+D:\dự án công nghệ\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+D:\dự án công nghệ\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+D:\dự án công nghệ\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+D:\dự án công nghệ\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+D:\dự án công nghệ\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\dự án công nghệ\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\dự án công nghệ\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\dự án công nghệ\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\dự án công nghệ\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+D:\dự án công nghệ\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\dự án công nghệ\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+D:\dự án công nghệ\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+D:\dự án công nghệ\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\dự án công nghệ\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+D:\dự án công nghệ\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\dự án công nghệ\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\dự án công nghệ\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+D:\dự án công nghệ\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+D:\dự án công nghệ\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+D:\dự án công nghệ\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+D:\dự án công nghệ\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+D:\dự án công nghệ\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+D:\dự án công nghệ\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+D:\dự án công nghệ\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+D:\dự án công nghệ\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+D:\dự án công nghệ\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+D:\dự án công nghệ\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+D:\dự án công nghệ\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+D:\dự án công nghệ\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+D:\dự án công nghệ\WebApplication1\WebApplication1\bin\Debug\net6.0\DACN.Core.dll
+D:\dự án công nghệ\WebApplication1\WebApplication1\bin\Debug\net6.0\DACN.Infrastructure.dll
+D:\dự án công nghệ\WebApplication1\WebApplication1\bin\Debug\net6.0\DACN.Core.pdb
+D:\dự án công nghệ\WebApplication1\WebApplication1\bin\Debug\net6.0\DACN.Infrastructure.pdb
+D:\dự án công nghệ\WebApplication1\WebApplication1\bin\Debug\net6.0\MySqlConnector.dll
+D:\dự án công nghệ\WebApplication1\WebApplication1\bin\Debug\net6.0\Dapper.dll
+D:\dự án công nghệ\WebApplication1\WebApplication1\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\dự án công nghệ\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.xml
+D:\dự án công nghệ\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.xml
+D:\dự án công nghệ\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\dự án công nghệ\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\dự án công nghệ\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\dự án công nghệ\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\dự án công nghệ\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\dự án công nghệ\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\dự án công nghệ\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\dự án công nghệ\WebApplication1\WebApplication1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\dự án công nghệ\WebApplication1\WebApplication1\bin\Debug\net6.0\EPPlus.dll
+D:\dự án công nghệ\WebApplication1\WebApplication1\bin\Debug\net6.0\EPPlus.Interfaces.dll
+D:\dự án công nghệ\WebApplication1\WebApplication1\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+D:\dự án công nghệ\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\dự án công nghệ\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\dự án công nghệ\WebApplication1\WebApplication1\bin\Debug\net6.0\OfficeOpenXml.Core.ExcelPackage.dll
+D:\dự án công nghệ\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\dự án công nghệ\WebApplication1\WebApplication1\bin\Debug\net6.0\System.IO.Packaging.dll
+D:\dự án công nghệ\WebApplication1\WebApplication1\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\dự án công nghệ\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\dự án công nghệ\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\dự án công nghệ\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\dự án công nghệ\WebApplication1\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\dự án công nghệ\WebApplication1\WebApplication1\bin\Debug\net6.0\MailKit.dll
+D:\dự án công nghệ\WebApplication1\WebApplication1\bin\Debug\net6.0\MimeKit.dll
+D:\dự án công nghệ\WebApplication1\WebApplication1\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Webbansach\Store_Book\Back-end\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+D:\Webbansach\Store_Book\Back-end\WebApplication1\bin\Debug\net6.0\appsettings.json
+D:\Webbansach\Store_Book\Back-end\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+D:\Webbansach\Store_Book\Back-end\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+D:\Webbansach\Store_Book\Back-end\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+D:\Webbansach\Store_Book\Back-end\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+D:\Webbansach\Store_Book\Back-end\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+D:\Webbansach\Store_Book\Back-end\WebApplication1\bin\Debug\net6.0\WebApplication1.xml
+D:\Webbansach\Store_Book\Back-end\WebApplication1\bin\Debug\net6.0\Dapper.dll
+D:\Webbansach\Store_Book\Back-end\WebApplication1\bin\Debug\net6.0\EPPlus.dll
+D:\Webbansach\Store_Book\Back-end\WebApplication1\bin\Debug\net6.0\EPPlus.Interfaces.dll
+D:\Webbansach\Store_Book\Back-end\WebApplication1\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+D:\Webbansach\Store_Book\Back-end\WebApplication1\bin\Debug\net6.0\MailKit.dll
+D:\Webbansach\Store_Book\Back-end\WebApplication1\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Webbansach\Store_Book\Back-end\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Webbansach\Store_Book\Back-end\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Webbansach\Store_Book\Back-end\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Webbansach\Store_Book\Back-end\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Webbansach\Store_Book\Back-end\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Webbansach\Store_Book\Back-end\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Webbansach\Store_Book\Back-end\WebApplication1\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Webbansach\Store_Book\Back-end\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Webbansach\Store_Book\Back-end\WebApplication1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Webbansach\Store_Book\Back-end\WebApplication1\bin\Debug\net6.0\MimeKit.dll
+D:\Webbansach\Store_Book\Back-end\WebApplication1\bin\Debug\net6.0\MySqlConnector.dll
+D:\Webbansach\Store_Book\Back-end\WebApplication1\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Webbansach\Store_Book\Back-end\WebApplication1\bin\Debug\net6.0\OfficeOpenXml.Core.ExcelPackage.dll
+D:\Webbansach\Store_Book\Back-end\WebApplication1\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Webbansach\Store_Book\Back-end\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Webbansach\Store_Book\Back-end\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Webbansach\Store_Book\Back-end\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Webbansach\Store_Book\Back-end\WebApplication1\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Webbansach\Store_Book\Back-end\WebApplication1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Webbansach\Store_Book\Back-end\WebApplication1\bin\Debug\net6.0\System.IO.Packaging.dll
+D:\Webbansach\Store_Book\Back-end\WebApplication1\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Webbansach\Store_Book\Back-end\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Webbansach\Store_Book\Back-end\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Webbansach\Store_Book\Back-end\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Webbansach\Store_Book\Back-end\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Webbansach\Store_Book\Back-end\WebApplication1\bin\Debug\net6.0\DACN.Core.dll
+D:\Webbansach\Store_Book\Back-end\WebApplication1\bin\Debug\net6.0\DACN.Infrastructure.dll
+D:\Webbansach\Store_Book\Back-end\WebApplication1\bin\Debug\net6.0\DACN.Core.pdb
+D:\Webbansach\Store_Book\Back-end\WebApplication1\bin\Debug\net6.0\DACN.Infrastructure.pdb
+D:\Webbansach\Store_Book\Back-end\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+D:\Webbansach\Store_Book\Back-end\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Webbansach\Store_Book\Back-end\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+D:\Webbansach\Store_Book\Back-end\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+D:\Webbansach\Store_Book\Back-end\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Webbansach\Store_Book\Back-end\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+D:\Webbansach\Store_Book\Back-end\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\Webbansach\Store_Book\Back-end\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Webbansach\Store_Book\Back-end\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication1.props
+D:\Webbansach\Store_Book\Back-end\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+D:\Webbansach\Store_Book\Back-end\WebApplication1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+D:\Webbansach\Store_Book\Back-end\WebApplication1\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Webbansach\Store_Book\Back-end\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+D:\Webbansach\Store_Book\Back-end\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+D:\Webbansach\Store_Book\Back-end\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+D:\Webbansach\Store_Book\Back-end\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+D:\Webbansach\Store_Book\Back-end\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+D:\Webbansach\Store_Book\Back-end\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+D:\Webbansach\Store_Book\Back-end\WebApplication1\obj\Debug\net6.0\WebApplication1.xml
+D:\Webbansach\Store_Book\Back-end\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+D:\Webbansach\Store_Book\Back-end\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+D:\Webbansach\Store_Book\Back-end\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+D:\Work\Web_Book\Back-end\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+D:\Work\Web_Book\Back-end\WebApplication1\bin\Debug\net6.0\appsettings.json
+D:\Work\Web_Book\Back-end\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+D:\Work\Web_Book\Back-end\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+D:\Work\Web_Book\Back-end\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+D:\Work\Web_Book\Back-end\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+D:\Work\Web_Book\Back-end\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+D:\Work\Web_Book\Back-end\WebApplication1\bin\Debug\net6.0\WebApplication1.xml
+D:\Work\Web_Book\Back-end\WebApplication1\bin\Debug\net6.0\Dapper.dll
+D:\Work\Web_Book\Back-end\WebApplication1\bin\Debug\net6.0\EPPlus.dll
+D:\Work\Web_Book\Back-end\WebApplication1\bin\Debug\net6.0\EPPlus.Interfaces.dll
+D:\Work\Web_Book\Back-end\WebApplication1\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+D:\Work\Web_Book\Back-end\WebApplication1\bin\Debug\net6.0\MailKit.dll
+D:\Work\Web_Book\Back-end\WebApplication1\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Work\Web_Book\Back-end\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Work\Web_Book\Back-end\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Work\Web_Book\Back-end\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Work\Web_Book\Back-end\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Work\Web_Book\Back-end\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Work\Web_Book\Back-end\WebApplication1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Work\Web_Book\Back-end\WebApplication1\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Work\Web_Book\Back-end\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Work\Web_Book\Back-end\WebApplication1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Work\Web_Book\Back-end\WebApplication1\bin\Debug\net6.0\MimeKit.dll
+D:\Work\Web_Book\Back-end\WebApplication1\bin\Debug\net6.0\MySqlConnector.dll
+D:\Work\Web_Book\Back-end\WebApplication1\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Work\Web_Book\Back-end\WebApplication1\bin\Debug\net6.0\OfficeOpenXml.Core.ExcelPackage.dll
+D:\Work\Web_Book\Back-end\WebApplication1\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Work\Web_Book\Back-end\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Work\Web_Book\Back-end\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Work\Web_Book\Back-end\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Work\Web_Book\Back-end\WebApplication1\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Work\Web_Book\Back-end\WebApplication1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Work\Web_Book\Back-end\WebApplication1\bin\Debug\net6.0\System.IO.Packaging.dll
+D:\Work\Web_Book\Back-end\WebApplication1\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Work\Web_Book\Back-end\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Work\Web_Book\Back-end\WebApplication1\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Work\Web_Book\Back-end\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Work\Web_Book\Back-end\WebApplication1\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Work\Web_Book\Back-end\WebApplication1\bin\Debug\net6.0\DACN.Core.dll
+D:\Work\Web_Book\Back-end\WebApplication1\bin\Debug\net6.0\DACN.Infrastructure.dll
+D:\Work\Web_Book\Back-end\WebApplication1\bin\Debug\net6.0\DACN.Core.pdb
+D:\Work\Web_Book\Back-end\WebApplication1\bin\Debug\net6.0\DACN.Infrastructure.pdb
+D:\Work\Web_Book\Back-end\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+D:\Work\Web_Book\Back-end\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Web_Book\Back-end\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+D:\Work\Web_Book\Back-end\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+D:\Work\Web_Book\Back-end\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\Work\Web_Book\Back-end\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+D:\Work\Web_Book\Back-end\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\Work\Web_Book\Back-end\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+D:\Work\Web_Book\Back-end\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+D:\Work\Web_Book\Back-end\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+D:\Work\Web_Book\Back-end\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+D:\Work\Web_Book\Back-end\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+D:\Work\Web_Book\Back-end\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+D:\Work\Web_Book\Back-end\WebApplication1\obj\Debug\net6.0\WebApplication1.xml
+D:\Work\Web_Book\Back-end\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+D:\Work\Web_Book\Back-end\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+D:\Work\Web_Book\Back-end\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll

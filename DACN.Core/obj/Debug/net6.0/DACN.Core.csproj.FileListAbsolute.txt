@@ -1,0 +1,36 @@
+D:\dự án công nghệ\WebApplication1\DACN.Core\bin\Debug\net6.0\DACN.Core.deps.json
+D:\dự án công nghệ\WebApplication1\DACN.Core\bin\Debug\net6.0\DACN.Core.dll
+D:\dự án công nghệ\WebApplication1\DACN.Core\bin\Debug\net6.0\DACN.Core.pdb
+D:\dự án công nghệ\WebApplication1\DACN.Core\obj\Debug\net6.0\DACN.Core.csproj.AssemblyReference.cache
+D:\dự án công nghệ\WebApplication1\DACN.Core\obj\Debug\net6.0\DACN.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\dự án công nghệ\WebApplication1\DACN.Core\obj\Debug\net6.0\DACN.Core.AssemblyInfoInputs.cache
+D:\dự án công nghệ\WebApplication1\DACN.Core\obj\Debug\net6.0\DACN.Core.AssemblyInfo.cs
+D:\dự án công nghệ\WebApplication1\DACN.Core\obj\Debug\net6.0\DACN.Core.csproj.CoreCompileInputs.cache
+D:\dự án công nghệ\WebApplication1\DACN.Core\obj\Debug\net6.0\DACN.Core.dll
+D:\dự án công nghệ\WebApplication1\DACN.Core\obj\Debug\net6.0\refint\DACN.Core.dll
+D:\dự án công nghệ\WebApplication1\DACN.Core\obj\Debug\net6.0\DACN.Core.pdb
+D:\dự án công nghệ\WebApplication1\DACN.Core\obj\Debug\net6.0\ref\DACN.Core.dll
+D:\Webbansach\Store_Book\Back-end\DACN.Core\bin\Debug\net6.0\DACN.Core.deps.json
+D:\Webbansach\Store_Book\Back-end\DACN.Core\bin\Debug\net6.0\DACN.Core.dll
+D:\Webbansach\Store_Book\Back-end\DACN.Core\bin\Debug\net6.0\DACN.Core.pdb
+D:\Webbansach\Store_Book\Back-end\DACN.Core\obj\Debug\net6.0\DACN.Core.csproj.AssemblyReference.cache
+D:\Webbansach\Store_Book\Back-end\DACN.Core\obj\Debug\net6.0\DACN.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Webbansach\Store_Book\Back-end\DACN.Core\obj\Debug\net6.0\DACN.Core.AssemblyInfoInputs.cache
+D:\Webbansach\Store_Book\Back-end\DACN.Core\obj\Debug\net6.0\DACN.Core.AssemblyInfo.cs
+D:\Webbansach\Store_Book\Back-end\DACN.Core\obj\Debug\net6.0\DACN.Core.csproj.CoreCompileInputs.cache
+D:\Webbansach\Store_Book\Back-end\DACN.Core\obj\Debug\net6.0\DACN.Core.dll
+D:\Webbansach\Store_Book\Back-end\DACN.Core\obj\Debug\net6.0\refint\DACN.Core.dll
+D:\Webbansach\Store_Book\Back-end\DACN.Core\obj\Debug\net6.0\DACN.Core.pdb
+D:\Webbansach\Store_Book\Back-end\DACN.Core\obj\Debug\net6.0\ref\DACN.Core.dll
+D:\Work\Web_Book\Back-end\DACN.Core\bin\Debug\net6.0\DACN.Core.deps.json
+D:\Work\Web_Book\Back-end\DACN.Core\bin\Debug\net6.0\DACN.Core.dll
+D:\Work\Web_Book\Back-end\DACN.Core\bin\Debug\net6.0\DACN.Core.pdb
+D:\Work\Web_Book\Back-end\DACN.Core\obj\Debug\net6.0\DACN.Core.csproj.AssemblyReference.cache
+D:\Work\Web_Book\Back-end\DACN.Core\obj\Debug\net6.0\DACN.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Web_Book\Back-end\DACN.Core\obj\Debug\net6.0\DACN.Core.AssemblyInfoInputs.cache
+D:\Work\Web_Book\Back-end\DACN.Core\obj\Debug\net6.0\DACN.Core.AssemblyInfo.cs
+D:\Work\Web_Book\Back-end\DACN.Core\obj\Debug\net6.0\DACN.Core.csproj.CoreCompileInputs.cache
+D:\Work\Web_Book\Back-end\DACN.Core\obj\Debug\net6.0\DACN.Core.dll
+D:\Work\Web_Book\Back-end\DACN.Core\obj\Debug\net6.0\refint\DACN.Core.dll
+D:\Work\Web_Book\Back-end\DACN.Core\obj\Debug\net6.0\DACN.Core.pdb
+D:\Work\Web_Book\Back-end\DACN.Core\obj\Debug\net6.0\ref\DACN.Core.dll

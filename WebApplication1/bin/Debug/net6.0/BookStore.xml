@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BookStore</name>
+    </assembly>
+    <members>
+        <member name="M:WebApplication1.Controllers.AccountController.UpdateUser(DACN.Core.Entity.User)">
+            <summary>
+            Chỉnh sửa thông tin
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApplication1.Controllers.AccountController.GetInfoUser(System.String)">
+            <summary>
+             Lấy thông tin của account theo email
+            </summary>
+            <param name="email"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApplication1.Controllers.AccountController.RecoverPassword(System.String)">
+            <summary>
+            Quên mật khẩu
+            </summary>
+            <param name="email"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApplication1.Controllers.AdminController.getAllAccount">
+            <summary>
+             Lấy toàn bộ thông tin account
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebApplication1.Controllers.AdminController.insertAccount(DACN.Core.Entity.User)">
+            <summary>
+            Thêm tài khoản
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebApplication1.Controllers.AdminController.searchByEmail(System.String)">
+            <summary>
+            Search
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebApplication1.Controllers.AdminController.insertAccount(System.String)">
+            <summary>
+            Xóa nhân viên theo email
+            </summary>
+            <param name="email"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApplication1.Controllers.AdminController.DeleteAll">
+            <summary>
+            Xóa toàn bộ nhưng đang fix cứng là xóa 10 bản ghi , Không nên test
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebApplication1.Controllers.EmployeeController.Get">
+            <summary>
+            Lấy tất cả bản ghi nhân viên
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebApplication1.Controllers.EmployeeController.GetByName">
+            <summary>
+            Lấy danh sách theo tên
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebApplication1.Controllers.EmployeeController.Post(DACN.Core.Entity.Employee)">
+            <summary>
+            Thêm nhân viên mới
+            </summary>
+            <param name="newEmployee"></param>
+        </member>
+        <member name="M:WebApplication1.Controllers.EmployeeController.Update(DACN.Core.Entity.Employee)">
+            <summary>
+            Cập nhật lại dữ liệu
+            </summary>
+            <param name="employee"></param>
+        </member>
+        <member name="M:WebApplication1.Controllers.EmployeeController.Filter(System.Int32,System.Int32,System.String)">
+            <summary>
+            Phân trang + lọc dữ liệu nhân viên
+            </summary>
+            <param name="filter"></param>
+            <param name="pageNumber"></param>
+            <param name="pageSize"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApplication1.Controllers.EmployeeController.SortByList(System.String)">
+            <summary>
+            Sắp xếp danh sách theo các cột
+            </summary>
+            <param name="listSort"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApplication1.Controllers.EmployeeController.getDetail(System.String)">
+            <summary>
+            Xem chi tiết theo mã nhân viên
+            </summary>
+            <param name="employeeCode"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApplication1.Controllers.EmployeeController.importExcel(Microsoft.AspNetCore.Http.IFormFile)">
+            <summary>
+            Upload file excel
+            </summary>
+            <param name="fileExcel"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApplication1.Controllers.ProductController.FilterByCategory(System.Int32,System.Int32,System.Int32,System.String)">
+            <summary>
+            Phân trang + lọc dữ liệu sản phẩm theo trường name và title
+            </summary>
+            <param name="filter"></param>
+            <param name="pageNumber"></param>
+            <param name="pageSize"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebApplication1.Controllers.ProductController.Filter(System.Int32,System.Int32,System.String)">
+            <summary>
+            Phân trang + lọc dữ liệu sản phẩm theo trường name và title
+            </summary>
+            <param name="filter"></param>
+            <param name="pageNumber"></param>
+            <param name="pageSize"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

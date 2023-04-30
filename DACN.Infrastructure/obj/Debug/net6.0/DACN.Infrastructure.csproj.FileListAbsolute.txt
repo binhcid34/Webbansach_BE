@@ -1,0 +1,45 @@
+D:\dự án công nghệ\WebApplication1\DACN.Infrastructure\bin\Debug\net6.0\DACN.Infrastructure.deps.json
+D:\dự án công nghệ\WebApplication1\DACN.Infrastructure\bin\Debug\net6.0\DACN.Infrastructure.dll
+D:\dự án công nghệ\WebApplication1\DACN.Infrastructure\bin\Debug\net6.0\DACN.Infrastructure.pdb
+D:\dự án công nghệ\WebApplication1\DACN.Infrastructure\bin\Debug\net6.0\DACN.Core.dll
+D:\dự án công nghệ\WebApplication1\DACN.Infrastructure\bin\Debug\net6.0\DACN.Core.pdb
+D:\dự án công nghệ\WebApplication1\DACN.Infrastructure\obj\Debug\net6.0\DACN.Infrastructure.csproj.AssemblyReference.cache
+D:\dự án công nghệ\WebApplication1\DACN.Infrastructure\obj\Debug\net6.0\DACN.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\dự án công nghệ\WebApplication1\DACN.Infrastructure\obj\Debug\net6.0\DACN.Infrastructure.AssemblyInfoInputs.cache
+D:\dự án công nghệ\WebApplication1\DACN.Infrastructure\obj\Debug\net6.0\DACN.Infrastructure.AssemblyInfo.cs
+D:\dự án công nghệ\WebApplication1\DACN.Infrastructure\obj\Debug\net6.0\DACN.Infrastructure.csproj.CoreCompileInputs.cache
+D:\dự án công nghệ\WebApplication1\DACN.Infrastructure\obj\Debug\net6.0\DACN.Infrastructure.csproj.CopyComplete
+D:\dự án công nghệ\WebApplication1\DACN.Infrastructure\obj\Debug\net6.0\DACN.Infrastructure.dll
+D:\dự án công nghệ\WebApplication1\DACN.Infrastructure\obj\Debug\net6.0\refint\DACN.Infrastructure.dll
+D:\dự án công nghệ\WebApplication1\DACN.Infrastructure\obj\Debug\net6.0\DACN.Infrastructure.pdb
+D:\dự án công nghệ\WebApplication1\DACN.Infrastructure\obj\Debug\net6.0\ref\DACN.Infrastructure.dll
+D:\Webbansach\Store_Book\Back-end\DACN.Infrastructure\bin\Debug\net6.0\DACN.Infrastructure.deps.json
+D:\Webbansach\Store_Book\Back-end\DACN.Infrastructure\bin\Debug\net6.0\DACN.Infrastructure.dll
+D:\Webbansach\Store_Book\Back-end\DACN.Infrastructure\bin\Debug\net6.0\DACN.Infrastructure.pdb
+D:\Webbansach\Store_Book\Back-end\DACN.Infrastructure\bin\Debug\net6.0\DACN.Core.dll
+D:\Webbansach\Store_Book\Back-end\DACN.Infrastructure\bin\Debug\net6.0\DACN.Core.pdb
+D:\Webbansach\Store_Book\Back-end\DACN.Infrastructure\obj\Debug\net6.0\DACN.Infrastructure.csproj.AssemblyReference.cache
+D:\Webbansach\Store_Book\Back-end\DACN.Infrastructure\obj\Debug\net6.0\DACN.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Webbansach\Store_Book\Back-end\DACN.Infrastructure\obj\Debug\net6.0\DACN.Infrastructure.AssemblyInfoInputs.cache
+D:\Webbansach\Store_Book\Back-end\DACN.Infrastructure\obj\Debug\net6.0\DACN.Infrastructure.AssemblyInfo.cs
+D:\Webbansach\Store_Book\Back-end\DACN.Infrastructure\obj\Debug\net6.0\DACN.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Webbansach\Store_Book\Back-end\DACN.Infrastructure\obj\Debug\net6.0\DACN.Infrastructure.csproj.CopyComplete
+D:\Webbansach\Store_Book\Back-end\DACN.Infrastructure\obj\Debug\net6.0\DACN.Infrastructure.dll
+D:\Webbansach\Store_Book\Back-end\DACN.Infrastructure\obj\Debug\net6.0\refint\DACN.Infrastructure.dll
+D:\Webbansach\Store_Book\Back-end\DACN.Infrastructure\obj\Debug\net6.0\DACN.Infrastructure.pdb
+D:\Webbansach\Store_Book\Back-end\DACN.Infrastructure\obj\Debug\net6.0\ref\DACN.Infrastructure.dll
+D:\Work\Web_Book\Back-end\DACN.Infrastructure\bin\Debug\net6.0\DACN.Infrastructure.deps.json
+D:\Work\Web_Book\Back-end\DACN.Infrastructure\bin\Debug\net6.0\DACN.Infrastructure.dll
+D:\Work\Web_Book\Back-end\DACN.Infrastructure\bin\Debug\net6.0\DACN.Infrastructure.pdb
+D:\Work\Web_Book\Back-end\DACN.Infrastructure\bin\Debug\net6.0\DACN.Core.dll
+D:\Work\Web_Book\Back-end\DACN.Infrastructure\bin\Debug\net6.0\DACN.Core.pdb
+D:\Work\Web_Book\Back-end\DACN.Infrastructure\obj\Debug\net6.0\DACN.Infrastructure.csproj.AssemblyReference.cache
+D:\Work\Web_Book\Back-end\DACN.Infrastructure\obj\Debug\net6.0\DACN.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Web_Book\Back-end\DACN.Infrastructure\obj\Debug\net6.0\DACN.Infrastructure.AssemblyInfoInputs.cache
+D:\Work\Web_Book\Back-end\DACN.Infrastructure\obj\Debug\net6.0\DACN.Infrastructure.AssemblyInfo.cs
+D:\Work\Web_Book\Back-end\DACN.Infrastructure\obj\Debug\net6.0\DACN.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Work\Web_Book\Back-end\DACN.Infrastructure\obj\Debug\net6.0\DACN.Infrastructure.csproj.CopyComplete
+D:\Work\Web_Book\Back-end\DACN.Infrastructure\obj\Debug\net6.0\DACN.Infrastructure.dll
+D:\Work\Web_Book\Back-end\DACN.Infrastructure\obj\Debug\net6.0\refint\DACN.Infrastructure.dll
+D:\Work\Web_Book\Back-end\DACN.Infrastructure\obj\Debug\net6.0\DACN.Infrastructure.pdb
+D:\Work\Web_Book\Back-end\DACN.Infrastructure\obj\Debug\net6.0\ref\DACN.Infrastructure.dll

@@ -34,15 +34,3 @@ D:\Work\Web_Book\Back-end\DACN.Core\obj\Debug\net6.0\DACN.Core.dll
 D:\Work\Web_Book\Back-end\DACN.Core\obj\Debug\net6.0\refint\DACN.Core.dll
 D:\Work\Web_Book\Back-end\DACN.Core\obj\Debug\net6.0\DACN.Core.pdb
 D:\Work\Web_Book\Back-end\DACN.Core\obj\Debug\net6.0\ref\DACN.Core.dll
-D:\Webbansach_BE\DACN.Core\bin\Debug\net6.0\DACN.Core.deps.json
-D:\Webbansach_BE\DACN.Core\bin\Debug\net6.0\DACN.Core.dll
-D:\Webbansach_BE\DACN.Core\bin\Debug\net6.0\DACN.Core.pdb
-D:\Webbansach_BE\DACN.Core\obj\Debug\net6.0\DACN.Core.csproj.AssemblyReference.cache
-D:\Webbansach_BE\DACN.Core\obj\Debug\net6.0\DACN.Core.GeneratedMSBuildEditorConfig.editorconfig
-D:\Webbansach_BE\DACN.Core\obj\Debug\net6.0\DACN.Core.AssemblyInfoInputs.cache
-D:\Webbansach_BE\DACN.Core\obj\Debug\net6.0\DACN.Core.AssemblyInfo.cs
-D:\Webbansach_BE\DACN.Core\obj\Debug\net6.0\DACN.Core.csproj.CoreCompileInputs.cache
-D:\Webbansach_BE\DACN.Core\obj\Debug\net6.0\DACN.Core.dll
-D:\Webbansach_BE\DACN.Core\obj\Debug\net6.0\refint\DACN.Core.dll
-D:\Webbansach_BE\DACN.Core\obj\Debug\net6.0\DACN.Core.pdb
-D:\Webbansach_BE\DACN.Core\obj\Debug\net6.0\ref\DACN.Core.dll

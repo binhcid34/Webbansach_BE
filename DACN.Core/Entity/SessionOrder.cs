@@ -31,7 +31,7 @@ namespace DACN.Core.Entity
 
         public int? PromotionPercent { get; set; }
 
-        public List<byte[]>? listImage { get; set; }
+        public List<byte[]>? ListImage { get; set; }
 
     }
 }

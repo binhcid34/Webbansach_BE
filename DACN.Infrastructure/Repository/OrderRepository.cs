@@ -80,7 +80,7 @@ namespace DACN.Infrastructure.Repository
                 //sessionOrder.OrderDetail = JsonSerializer.Deserialize<List<Product>>(ref utf8Reader)!;
                 //JObject json = JObject.Parse(res.OrderDetail);
                 sessionOrder.OrderDetail = JsonSerializer.Deserialize<List<Product>>(res.OrderDetail);
-                sessionOrder.listImage = new List<byte[]>();
+                sessionOrder.ListImage = new List<byte[]>();
                 // Lấy ảnh
                 if (sessionOrder.OrderDetail != null)
                 {
@@ -91,7 +91,7 @@ namespace DACN.Infrastructure.Repository
                             var idProduct = item.IdProduct;
                             var sqlQueryImg = $"SELECT p.ImageProduct from product p WHERE p.IdProduct = '{idProduct}' ";
                             var ImgProduct = sqlConnector.Query<byte[]>(sqlQueryImg).FirstOrDefault();
-                            sessionOrder.listImage.Add(ImgProduct);
+                            sessionOrder.ListImage.Add(ImgProduct);
                         }
                     }
                 }

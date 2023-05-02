@@ -29,7 +29,9 @@ namespace DACN.Core.Entity
 
         public DateTime LastTime { get; set; }
 
-        public int PromotionPercent { get; set; }
+        public int? PromotionPercent { get; set; }
+
+        public List<byte[]>? listImage { get; set; }
 
     }
 }

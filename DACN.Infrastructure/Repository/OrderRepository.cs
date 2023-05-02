@@ -8,6 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Text.Json;
+using Newtonsoft.Json.Linq;
 
 namespace DACN.Infrastructure.Repository
 {
@@ -77,7 +78,23 @@ namespace DACN.Infrastructure.Repository
                 //byte[] jsonUtf8Bytes = System.Text.Encoding.UTF8.GetBytes(res.OrderDetail);
                 //var utf8Reader = new Utf8JsonReader(jsonUtf8Bytes);
                 //sessionOrder.OrderDetail = JsonSerializer.Deserialize<List<Product>>(ref utf8Reader)!;
+                //JObject json = JObject.Parse(res.OrderDetail);
                 sessionOrder.OrderDetail = JsonSerializer.Deserialize<List<Product>>(res.OrderDetail);
+                sessionOrder.listImage = new List<byte[]>();
+                // Lấy ảnh
+                if (sessionOrder.OrderDetail != null)
+                {
+                    foreach(var item in sessionOrder.OrderDetail )
+                    {
+                        if (item != null)
+                        {
+                            var idProduct = item.IdProduct;
+                            var sqlQueryImg = $"SELECT p.ImageProduct from product p WHERE p.IdProduct = '{idProduct}' ";
+                            var ImgProduct = sqlConnector.Query<byte[]>(sqlQueryImg).FirstOrDefault();
+                            sessionOrder.listImage.Add(ImgProduct);
+                        }
+                    }
+                }
                 return sessionOrder;
             }
             return null;
